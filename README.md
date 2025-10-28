@@ -1,15 +1,25 @@
 # UD Block: Carousel
 
-Moderner Carousel-Block für den WordPress-Block-Editor auf Basis von **Swiper.js**.
+Moderner Carousel-Block für den WordPress-Block-Editor auf Basis von **Swiper.js**.  
 Er ermöglicht flexible, responsive Slider mit Navigation, Pagination und optionalem Autoplay.
 
 ## Funktionen
-- Responsive Carousel mit Swiper.js
-- Unterstützt Navigation, Pagination, Autoplay und Loop
-- Anpassbare Slide-Anzahl, Geschwindigkeit, Abstände und Farben
-- Innerer Block: `ud/slide-block` für einzelne Slides
-- Getrennte Editor- und Frontend-Skripte
+- Responsive Carousel mit Swiper.js  
+- Unterstützt Navigation, Pagination, Autoplay und Loop  
+- Anpassbare Slide-Anzahl, Geschwindigkeit, Abstände und Farben  
+- Eigene Navigationspfeile wählbar (Upload oder Medienauswahl)  
+- Responsive Breakpoints direkt im Editor konfigurierbar  
+- Innerer Block: `ud/slide-block` für einzelne Slides  
+- Getrennte Editor- und Frontend-Skripte  
 - Kompatibel mit Full Site Editing (FSE)
+
+## Screenshots
+![Editor-Ansicht](./assets/editor-ansicht.jpg)
+*Abbildung: Editor-Ansicht.*
+
+
+![Frontend-Ansicht](./assets/frontend-ansicht.jpg)
+*Abbildung: Frontend-Ansicht.*
 
 ## Installation
 Das Plugin in WordPress hochladen und aktivieren.
@@ -26,7 +36,7 @@ ud-carousel-block.php
 ```
 
 ## Lizenz
-→
+GPL v2 or later  
 © ulrich.digital gmbh – https://ulrich.digital
 
 <!--
