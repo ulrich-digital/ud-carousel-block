@@ -18,7 +18,7 @@ Er ermöglicht flexible, responsive Slider mit Navigation, Pagination und option
 *Abbildung: Editor-Ansicht.*
 
 
-![Frontend-Ansicht](./assets/frontend-ansicht.jpg)
+![Frontend-Ansicht](./assets/ud-carousel-block.jpg)
 *Abbildung: Frontend-Ansicht.*
 
 ## Installation
