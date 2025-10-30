@@ -14,12 +14,14 @@ Er ermöglicht flexible, responsive Slider mit Navigation, Pagination und option
 - Kompatibel mit Full Site Editing (FSE)
 
 ## Screenshots
+![Frontend-Ansicht](./assets/ud-carousel-block.jpg)
+*Abbildung: Frontend-Ansicht.*
+
 ![Editor-Ansicht](./assets/editor-ansicht.jpg)
 *Abbildung: Editor-Ansicht.*
 
 
-![Frontend-Ansicht](./assets/ud-carousel-block.jpg)
-*Abbildung: Frontend-Ansicht.*
+
 
 ## Installation
 Das Plugin in WordPress hochladen und aktivieren.
