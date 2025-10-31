@@ -22,10 +22,6 @@ Er ermöglicht flexible, responsive Slider mit Navigation, Pagination und option
 
 
 
-
-
-
-
 ## Autor
 
 [ulrich.digital gmbh](https://ulrich.digital)
